@@ -2,7 +2,7 @@
 
 <image src="http://m.qpic.cn/psc?/V51UyG6T2hLdbN0oEgHl3fEkH73KqJt7/TmEUgtj9EK6.7V8ajmQrEEsEylM*52lTktZHLze*PTbMCd2wg4o5kkEyKNVsVL9UM5xK4GLClF.TOL*ty*FnqAuxBQmobbAoJ.gYMo62EQY!/mnull&bo=wADAAAAAAAADByI!&rf=photolist&t=5" height="64"/>
 
-# IWBNextPack
+# IWBPack
 
 一个可以全自动配置班级用 IWB 的工具，提供多种软件的自动安装与配置。
 
@@ -16,7 +16,7 @@ Python 运行时的安装方法请自行百度。
 
 ## 致谢
 
-感谢以下成员对 IWBNextPack 提供的贡献：
+感谢以下成员对 IWBPack 提供的贡献：
 
 <!-- readme: contributors -start -->
 <!-- readme: contributors -end -->
